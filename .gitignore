@@ -307,3 +307,9 @@ dist
 cypress/videos
 cypress/screenshots
 .vscode/settings.json
+
+docker-compose.yaml
+Dockerfile
+local.key
+local.crt
+nginx.conf
